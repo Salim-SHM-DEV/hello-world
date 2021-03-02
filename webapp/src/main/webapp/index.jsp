@@ -6,3 +6,6 @@
 <h1> Deployiiiiiiiiiiiiiing On  Container </h1>
 
 <h4> After fix and delete old container </h4>
+
+
+<h1> Deploying using ansible playbooks</h1>
